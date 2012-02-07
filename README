@@ -1,0 +1,10 @@
+C and Systems Programming Fall 2009
+Prof. Benson 
+
+reverse.c takes input one line at a time and outputs it backwards
+
+removeComments.c takes as input a String representing a program and output the String without comments 
+
+To run programs use the Makefile commands "make" and then "make test"
+
+input used for both programs are included in the test function of Makefile
